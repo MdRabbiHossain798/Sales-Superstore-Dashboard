@@ -99,13 +99,8 @@ Sales-Superstore-Analysis/
 
 ## 🚀 How to Use
 
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/sales-superstore-analysis.git
-   ```
-2. Open dataset in Excel
-3. Explore dashboards and visual insights
+1. Open dataset in Excel
+2. Explore dashboards and visual insights
 
 ---
 
